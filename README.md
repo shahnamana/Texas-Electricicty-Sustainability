@@ -67,8 +67,6 @@ We employed a multi-faceted approach to analyze Texas's electricity sustainabili
 ├── docs/
 │   ├── project_report.pdf
 │   └── presentation.pptx
-├── project_report.pdf
-├── presentation.pptx
 ├── requirements.txt
 └── README.md
 ```
