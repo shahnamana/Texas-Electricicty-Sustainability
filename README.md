@@ -105,6 +105,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 For more detailed information about the project, please refer to the `project_report.pdf` and `presentation.pptx` files in the `docs/` directory.
-
-Citations:
-[1] https://github.com/shahnamana/Texas-Electricicty-Sustainability
