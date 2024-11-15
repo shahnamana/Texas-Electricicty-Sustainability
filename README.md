@@ -60,25 +60,16 @@ We employed a multi-faceted approach to analyze Texas's electricity sustainabili
 ## Repository Structure
 
 ```
-├── data/
-│   ├── raw/
-│   └── processed/
+
 ├── notebooks/
-│   ├── data_preprocessing.ipynb
-│   ├── exploratory_data_analysis.ipynb
+│   ├── fetch_data.ipynb
 │   └── modeling.ipynb
-├── src/
-│   ├── data_processing/
-│   ├── analysis/
-│   └── visualization/
-├── results/
-│   ├── figures/
-│   └── tables/
 ├── docs/
 │   ├── project_report.pdf
 │   └── presentation.pptx
+├── project_report.pdf
+├── presentation.pptx
 ├── requirements.txt
-├── LICENSE
 └── README.md
 ```
 
