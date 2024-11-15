@@ -1,5 +1,3 @@
-Here's a comprehensive README for your GitHub repository based on the project "Texas Electricity Sustainability":
-
 # Texas Electricity Sustainability
 
 ## Project Overview
